@@ -1,0 +1,4 @@
+Codificação - Lara
+Componente de cadastro deve permitir o cadastro associado com outras contas (Facebook/Gmail etc).
+O componente localização deve exibir as clínicas mais próximas, o deslocamento do profissional
+Componente de pagamento deve permitir o cadastro de cartões, gerar boletos e integração com empresas atuais.
